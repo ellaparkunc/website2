@@ -1,0 +1,19 @@
+{
+  "name": "website2",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellaparkunc/website2.git"
+  },
+  "author": "'730330121' <ella.person224@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellaparkunc/website2/issues"
+  },
+  "homepage": "https://github.com/ellaparkunc/website2#readme"
+}
